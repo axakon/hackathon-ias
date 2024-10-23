@@ -9,7 +9,7 @@ The goal is to deploy our own server to AWS, using a Load balancer as the gatewa
 
 ## Architecture
 
-![Architecture](./assets/architecture.png)
+![Architecture](architecture.drawio.svg)
 
 ## Lessons
 
