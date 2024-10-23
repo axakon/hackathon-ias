@@ -4,7 +4,7 @@ import * as ec2 from "aws-cdk-lib/aws-ec2";
 import * as ecs from "aws-cdk-lib/aws-ecs";
 import * as elbv2 from "aws-cdk-lib/aws-elasticloadbalancingv2";
 
-export const APP_NAME = "nyman";
+export const APP_NAME = "<insert-your-name-here>";
 
 export class HelloIasStack extends cdk.Stack {
   public readonly vpc: ec2.Vpc;
